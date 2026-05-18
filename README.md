@@ -10,6 +10,10 @@ Aplikasi ini menggunakan model Machine Learning yang telah dilatih sebelumnya di
 
 Pengguna mengisi data kesehatan melalui halaman web. Data tersebut dikirim ke API dalam format JSON. API melakukan prediksi menggunakan model Machine Learning, kemudian mengembalikan hasil prediksi ke halaman web.
 
+## Dataset
+
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data
+
 ## Alur Sistem
 
 ```
