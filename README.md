@@ -1,5 +1,9 @@
 # Heart Disease Prediction — Web API
 
+<p align="center">
+  <img src="App.png" alt="Heart Disease Prediction App" width="800">
+</p>
+
 Project ini merupakan aplikasi untuk memprediksi risiko penyakit jantung menggunakan model Machine Learning yang diintegrasikan dengan REST API dan aplikasi web.
 
 Project ini dibuat untuk praktikum Mata Kuliah **Pemrograman Berbasis Platform**. Fokus utama project ini adalah memahami proses integrasi antara model Machine Learning, REST API, dan aplikasi web.
