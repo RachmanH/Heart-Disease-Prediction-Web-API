@@ -10,10 +10,6 @@ Aplikasi ini menggunakan model Machine Learning yang telah dilatih sebelumnya di
 
 Pengguna mengisi data kesehatan melalui halaman web. Data tersebut dikirim ke API dalam format JSON. API melakukan prediksi menggunakan model Machine Learning, kemudian mengembalikan hasil prediksi ke halaman web.
 
-## Dataset
-
-https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data
-
 ## Alur Sistem
 
 ```
@@ -79,6 +75,8 @@ hearth_diseases/
 ## Dataset
 
 Dataset yang digunakan adalah dataset penyakit jantung berbasis data tabular dari Kaggle. Dataset ini memiliki 14 atribut kesehatan yang digunakan untuk memprediksi risiko penyakit jantung.
+
+Link Dataset : https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data
 
 ### Atribut Dataset
 
