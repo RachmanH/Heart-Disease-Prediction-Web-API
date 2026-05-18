@@ -1,0 +1,29 @@
+{
+  "scale_cols": [
+    "age",
+    "trestbps",
+    "chol",
+    "thalach",
+    "oldpeak"
+  ],
+  "encode_cols": [
+    "sex",
+    "cp",
+    "restecg",
+    "exang",
+    "slope",
+    "ca",
+    "thal",
+    "fbs"
+  ],
+  "model_name": "Logistic Regression",
+  "metrics": {
+    "Model": "Logistic Regression",
+    "Accuracy": 0.8966,
+    "CV Accuracy": 0.8396,
+    "Precision": 0.8897,
+    "Recall": 0.8994,
+    "F1-Score": 0.8934,
+    "AUC": 0.954
+  }
+}
